@@ -13,6 +13,6 @@ List of changes from the original:
 
 -Improved charging animations (Blinks red when <15%, blinks yellow when charging, and stays in blue when battery reached 100%, while descharges it gets from green to red in gradient.
 
--Everything is just a recolor from the original, granted to personal test.
+-Everything is just a recolor from the original, granted to personal taste.
 
 -WFS only (no apk since i have no idea how to get the apk from WFS), so you need to have it in order to apply it.
